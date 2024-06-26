@@ -1,4 +1,4 @@
-📍Download the complete [report] from here.
+📍Download the complete [report](https://github.com/MansiAgrawal26/Fashion_Store_Data_Analysis_Excel/blob/master/Fashion%20Store%20Data%20Analysis.xlsx) from here.
 
 # Objective
 
