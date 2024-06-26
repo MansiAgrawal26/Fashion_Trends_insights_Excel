@@ -1,3 +1,5 @@
+📍Download the complete [report] from here.
+
 # Objective
 
 Fashion Store wants to create an annual sales report for 2024. So that, this store can understand their customers and grow more sales in 2025. Implemented an advanced Fashion Store Dashboard using Excel.
